@@ -24,7 +24,7 @@
 I'm a Mathematical Engineering student at **EAFIT University** (8th semester), passionate about turning complex data problems into actionable insights through statistical modeling, machine learning, and optimization. I enjoy working at the intersection of rigorous mathematics and real-world impact.
 
 
-- 🌱 Continuously learning: deep learning, MLOps, and data engineering.
+- 🌱 Continuously learning: machine learning, deep learning, MLOps, and data engineering.
 - 🗣️ Languages: Spanish (native) · English (B2) · French (B2)
 
 ---
